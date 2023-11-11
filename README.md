@@ -11,4 +11,4 @@ Os usuários, por outro lado, podem visualizar os eventos cadastrados na platafo
 Pensando naqueles e naquelas que não possuem acesso a um computador mas que possuem interesse em aprender sobre tecnologia e possivelmente seguir carreira na àrea, surgiu a ideia do EducaTruck: inspirado no Hackatruck, um laboratório de informática montado dentro de um caminhão que circula por diferentes comunidades periféricas levando cursos na área de tecnologia para democratizar o acesso à internet e a um computador.
 A ideia é que, à medida que o projeto cresça, possam ser construídos laboratórios em algumas comunidades e mais EducaTrucks para que cada vez mais comunidades do Brasil possam se beneficiar dessa iniciativa.
 
-Link para visualizar os slides do pitch: [https://www.canva.com/design/DAFz3MgDY_8/jsvG-g_C7x-CbRrMQKFI7A/edit?utm_content=DAFz3MgDY_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton] 
+Link para visualizar os slides do pitch: https://www.canva.com/design/DAFz3MgDY_8/jsvG-g_C7x-CbRrMQKFI7A/edit?utm_content=DAFz3MgDY_8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton 
